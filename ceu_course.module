@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CEU Course feature.
+ */
+
+include_once 'ceu_course.features.inc';
